@@ -10,4 +10,6 @@ Page Link     |  Descriptions
 
 [Markdown](https://sajaababneh.github.io/reading-notes/Markdown)  | The markdown page.
 
+[SeeingYourRemote](https://sajaababneh.github.io/reading-notes/SeeingYourRemote)  | The SeeingYourRemote page.
+
 

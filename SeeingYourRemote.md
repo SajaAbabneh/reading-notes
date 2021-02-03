@@ -5,6 +5,7 @@ When using git **remote -v** , you can view all the remote URLs next to their co
 $ git remote -v
 
 origin  https://github.com/SajaAbabneh/reading-notes.git (fetch)
+
 origin  https://github.com/SajaAbabneh/reading-notes.git (push)
 
 ---
