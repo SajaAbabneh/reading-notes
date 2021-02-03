@@ -12,4 +12,6 @@ Page Link     |  Descriptions
 
 [SeeingYourRemote](https://sajaababneh.github.io/reading-notes/SeeingYourRemote)  | The SeeingYourRemote page.
 
+[TextEditor](https://sajaababneh.github.io/reading-notes/Texteditor)  | The TextEditor page.
+
 
