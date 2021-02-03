@@ -8,6 +8,6 @@ Page Link     |  Descriptions
 
 [Growth_Mindset](https://sajaababneh.github.io/reading-notes/Growthmindset)  | The GrowthMindset page
 
-[Markdown](https://github.com/SajaAbabneh/reading-notes/blob/main/Markdown)  | The markdown page
+[Markdown](https://sajaababneh.github.io/reading-notes/Markdown)  | The markdown page
 
 
