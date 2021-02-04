@@ -1,10 +1,11 @@
-# reading-notes
-# Content table
+# Reading-notes
+**Table**
+
 Page Link     |  Descriptions
 
-**************| **************
+|**************| **************|
 
-[main](https://sajaababneh.github.io/reading-notes/)    | The main page.
+[Main](https://sajaababneh.github.io/reading-notes/)    | The main page.
 
 [Growth_Mindset](https://sajaababneh.github.io/reading-notes/Growthmindset)  | The GrowthMindset page.
 
