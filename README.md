@@ -3,7 +3,6 @@
 
 Page Link     |  Descriptions
 
-|**************| **************|
 
 [Main](https://sajaababneh.github.io/reading-notes/)    | The main page.
 
