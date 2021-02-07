@@ -16,4 +16,6 @@ Page Link     |  Descriptions
 
 [ProcessAndDesign](https://sajaababneh.github.io/reading-notes/ProcessDesign)  | The ProcessDesign page.
 
+[JavaScript](https://sajaababneh.github.io/reading-notes/javascript)  | The JavaScript page.
+
 
