@@ -27,22 +27,19 @@ Operators | Description
 Operators | Description
 ----------|------------
 &&       |  logical **and**
-(||)     |  logical **or**
+<||>    |  logical **or**
 !        |  logical **not**
 
 ---
 ## Example : Logical Operators
 **var a = 2  ,  b = 3** ;
 
-(a != b) && (a < b); // returns *true*
+* (a>b) || (a==b); **return false**
 
-(a > b) || (a == b); // returns *false*
+* (a!=b) && (a<b); **return true**
 
-(a < b) || (a == b); // returns *true*
-
-!(a < b); // returns *false*
-
-!(a > b); // returns *true*
+* !(a>b); **return true**
+ 
 
 ---
 
