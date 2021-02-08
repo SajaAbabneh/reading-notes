@@ -18,6 +18,6 @@ Page Link     |  Descriptions
 
 [JavaScript](https://sajaababneh.github.io/reading-notes/Javascript)  | The JavaScript page.
 
-[Operators_Loop](https://sajaababneh.github.io/reading-notes/Javascript)  | The Operators and Loops page.
+[Operators_Loop](https://sajaababneh.github.io/reading-notes/OperatorsLoops)  | The Operators and Loops page.
 
 
