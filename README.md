@@ -22,4 +22,6 @@ Page Link     |  Descriptions
 
 [Function](https://sajaababneh.github.io/reading-notes/Function) | The Function page.
 
+[CSS Color](https://sajaababneh.github.io/reading-notes/colorcss)  | The CSS Color Page.
+
 
