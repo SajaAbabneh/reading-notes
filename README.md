@@ -20,6 +20,6 @@ Page Link     |  Descriptions
 
 [Operators_Loop](https://sajaababneh.github.io/reading-notes/OperatorsLoops)  | The Operators and Loops page.
 
-[Function](https://sajaababneh.github.io/reading-notes/Function)  | The Function page.
+[Function](https://sajaababneh.github.io/reading-notes/Function) | The Function page.
 
 
