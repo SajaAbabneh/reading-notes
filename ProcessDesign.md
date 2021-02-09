@@ -13,7 +13,7 @@ site owner.
 
 **Wireframing** of my site
 
-![wireframing](firemware.png)
+![wireframing](firemware.PNG) 
 
 **HTML** : Hyper Text Markup Language
 
