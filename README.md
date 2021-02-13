@@ -7,7 +7,7 @@
 
 | **Page Link**| **Description** |
 | --------- | ----------- |
-| [class-01]   | Html-JavaScript |
+| [class-01](https://sajaababneh.github.io/reading-notes/class-01)  | Html-JavaScript |
 | **Title 2**   | description2|
 | **Title 3**   | description3|
 | **Title 4**  | description4|
