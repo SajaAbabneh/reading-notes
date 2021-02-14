@@ -221,26 +221,39 @@ Strings, and Booleans.**
 
 ![m3](image2/m3.png)
 
-# SWITCH STATEMENTS 
+---
 
-**A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.** 
+## Comparison Operators
 
-![syntaxswitch](image2/switch.png)
+**Comparison operators are used in logical statements to determine equality or difference between variables or values.**
 
-* The switch expression is evaluated once.
+![comp](image3/comp.png)
+![compa](image3/comp2.png)
 
-* The value of the expression is compared with the values of each case.
+## Logical Operators
 
-* If there is a match, the associated block of code is executed.
+**Logical operators are used to determine the logic between variables or values.**
 
-* If there is no match, the default code block is executed.
+![logical](image3/logical.png)
+
+## Conditional Statements
+
+**Use if to specify a block of code to be executed, if a specified condition is true**.
+
+### **syntax**
+
+![ifstatemnet](image3/if.png)
+
+**Use the else statement to specify a block of code to be executed if the condition is false.**
+
+![ifelse](image3/if2.png)
+
+**Use the else if statement to specify a new condition if the first condition is false.**
+
+![elseif](image3/if3.png)
 
 
-***At the end of each case is the break keyword.***
 
-**The Different between If-statement and Switch**
-
-The if statement evaluates integer, character, pointer or floating-point type or boolean type. On the other hand, switch statement evaluates only character or an integer datatype.
 
 
 
