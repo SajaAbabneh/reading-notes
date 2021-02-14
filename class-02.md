@@ -138,3 +138,117 @@ several properties in one declaration, each separated by a semi-colon.**
 
 ---
 
+# Basic JavaScript Instructions
+
+***Statements*** : **A script is a series of instructions that a computer can follow one-by-one.
+Statements should end with a semicolon(;).**
+
+## COMMENTS 
+
+ **can be used to explain JavaScript code, and to make it more readable,can also be used to prevent execution, when testing alternative code.**
+
+ * Single line comments start with //.
+ * Multi-line comments start with /* and end with */.
+
+ ## WHAT IS A VARIABLE?
+
+ **JavaScript variables are containers for storing data values.**
+  
+  ![declartion var](image2/var.png)
+
+  **How to assign value to var**:
+
+  ![signvar](image2/sign.png)
+
+  ## DATA TYPES
+
+  **JavaScript distinguishes between Numbers,
+Strings, and Booleans.**
+
+* var length = 16;  **Number**
+* var name = "Saja"; **String**
+* var chech=true; **Boolean**
+
+## SHORTHAND FOR CREATING VARIABLES
+
+![short](image2/d.png)
+
+## RULES FOR NAMING VARIABLES
+* Names can contain letters, digits, underscores, and dollar signs.
+* Names must begin with a letter.
+* Names can also begin with $ and _ .
+* Names are case sensitive (y and Y are different variables).
+* Reserved words (like JavaScript keywords) cannot be used as names.
+
+## Arrays
+
+**An array is a special type of variable. It doesn't just store one value; it stores a list of values.**
+
+### **Creating an Array**
+
+* var array_name = [item1, item2, ...];  
+* var colors = new Array("red", "yello", "gray");
+
+![arrays](image2/arr.png)
+
+### **CHANGING VALUES IN AN ARRAY**
+
+![change](image2/newa.png)
+
+## EXPRESSIONS
+
+**An expression evaluates into (results in) a single value.**
+
+## OPERATORS
+
+**Expressions rely on things called operators; they allow programmers to create a single value from one or more values.**
+
+* ASSIGNMENT OPERATORS : color = 'beige'; 
+* ARITHMETIC OPERATORS : area = 3 * 2; 
+* STRING OPERATORS : greeting= 'saja+ 'ababneh';
+* COMPARISON OPERATORS  : buy = 3 > 5; 
+* LOGICAL OPERATORS : buy= (5 > 3) && (2 < 4); 
+
+## JavaScript Arithmetic
+
+![arthematic](image2/op.png)
+
+## MIXING NUMBERS AND STRINGS TOGETHER 
+
+![m1](image2/m1.png)
+
+![m2](image2/m2.png)
+
+![m3](image2/m3.png)
+
+# SWITCH STATEMENTS 
+
+**A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.** 
+
+![syntaxswitch](image2/switch.png)
+
+* The switch expression is evaluated once.
+
+* The value of the expression is compared with the values of each case.
+
+* If there is a match, the associated block of code is executed.
+
+* If there is no match, the default code block is executed.
+
+
+***At the end of each case is the break keyword.***
+
+**The Different between If-statement and Switch**
+
+The if statement evaluates integer, character, pointer or floating-point type or boolean type. On the other hand, switch statement evaluates only character or an integer datatype.
+
+
+
+
+
+
+
+
+
+
+
