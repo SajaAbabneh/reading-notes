@@ -156,15 +156,15 @@ do
 
 ## Image border
 
-![borderimage](/image3/border.png)
+![borderimage](./image3/border.png)
 
 ## Box shadow
 
-![shadowbox](/image3/shadow.png)
+![shadowbox](./image3/shadow.png)
 
 ## Border radius
 
-![borderradius](/image3/radius.png)
+![borderradius](./image3/radius.png)
 
 ---
 
