@@ -150,9 +150,10 @@ do
 
 ## inline
 
+
 **This causes a block-level element to act like an inline element.**
 
-![inline](./image3/in.png)
+![inline](image3/in.png)
 
 ## Image border
 
