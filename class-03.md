@@ -2,7 +2,7 @@
 
 **A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.** 
 
-![syntaxswitch](image2/switch.png)
+![syntaxswitch](./image2/switch.png)
 
 * The switch expression is evaluated once.
 
@@ -27,7 +27,7 @@ The if statement evaluates integer, character, pointer or floating-point type or
 
 **if you want to run the same code over and over again, each time with a different value.**
 
-![forsyntax](image3/for.png)
+![forsyntax](./image3/for.png)
 
 * Initialization : var i=0;
 
@@ -57,7 +57,7 @@ while(condition)
 
 }
 
-![whileloop](image3/while.png)
+![whileloop](./image3/while.png)
 
 
 ## Do While loop
@@ -73,7 +73,7 @@ do
     statements;
 } while(condition);
 
-![dowhile](image3/do.png)
+![dowhile](./image3/do.png)
 
 ---
 
@@ -83,19 +83,19 @@ do
 
 * **Ordered lists** are lists where each item in the list is numbered.
 
-![Order](image3/order.png)
-![orderalpha](image3/order2.png)
-![nestedorder](image3/nesorder.png)
+![Order](./image3/order.png)
+![orderalpha](./image3/order2.png)
+![nestedorder](./image3/nesorder.png)
 
 * **Unordered lists** are lists that begin with a bullet point .
 
-![unorder](image3/unorder.png)
-![nestedunorder](image3/nesunorder.png)
+![unorder](./image3/unorder.png)
+![nestedunorder](./image3/nesunorder.png)
 
 
 * **Definition lists** are made up of a set of terms along with the definitions for each of those terms.
 
-![Definitionlist](image3/dfn.png)
+![Definitionlist](./image3/dfn.png)
 
 * Use the HTML **<dl** element to define a description list.
 
@@ -109,25 +109,25 @@ do
 
 **The box-sizing property allows us to include the padding and border in an element's total width and height.**
 
-![Box](image3/box1.png)
+![Box](./image3/box1.png)
 
 ## Border width
 
 * border style
 
-![borderstyle](image3/type.png)
+![borderstyle](./image3/type.png)
 
 * border width
 
-![borderwidth](image3/type2.png)
+![borderwidth](./image3/type2.png)
 
 * border color
 
-![bordercolor](image3/type3.png)
+![bordercolor](./image3/type3.png)
 
 * indivisual border side
 
-![indivisualborder](image3/type5.png)
+![indivisualborder](./image3/type5.png)
 
 ---
 
@@ -135,12 +135,38 @@ do
 
 **properties are used to generate space around an element's content, inside of any defined borders.**
 
-![padding](image3/padding.png)
+![padding](./image3/padding.png)
 
 ## Margin 
 **properties are used to create space around elements, outside of any defined borders.**
 
-![margin](image3/margin.png)
+![margin](./image3/margin.png)
+
+## Centering Content
+
+**If you want to center a box on the page (or center it inside the element that it sits in).**
+
+![centerbox](./image3/center.png)
+
+## inline
+
+**This causes a block-level element to act like an inline element.**
+
+![inline](./image3/in.png)
+
+## Image border
+
+![borderimage](./image3/border.png)
+
+## Box shadow
+
+![shadowbox](./image3/shadow.png)
+
+## Border radius
+
+![borderradius](./image3/radius.png)
+
+---
 
 
 
