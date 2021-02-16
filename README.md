@@ -12,7 +12,7 @@
 | [class-01](https://sajaababneh.github.io/reading-notes/class-01)  | Html--Css-Js |
 | [class-02](https://sajaababneh.github.io/reading-notes/class-02)   | Html-Css-Js|
 | [class-03](https://sajaababneh.github.io/reading-notes/class-03)   | Html-Css-Js|
-| [class-04](https://sajaababneh.github.io/reading-notes/class-04| Html-Css-Js|
+| [class-04](https://sajaababneh.github.io/reading-notes/class-04)  | Html-Css-Js|
 | **Title 5**   | description5|
 | **Title 6**   | description6|
 | **Title 7**   | description7|
