@@ -10,7 +10,7 @@
 * **absolute URL :a full web address.**
 * **relative URL :local link (a link to a page within the same website).**
 
-![Url](./image4/url.PNG)
+![Url](./image4/url.png)
 
 ## Image as a Link
 
