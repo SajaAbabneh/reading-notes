@@ -86,15 +86,19 @@ Colors are specified using predefined **color names, or RGB, HEX, HSL** .
 <h1 style="background-color:#ff6347;">Saja </h1>
 
 ---
+
 **RGB**
 
 <h1 style="background-color:rgba(255, 99, 71, 0.5);">Saja<h1>
 
 ---
+
 **HLS**
 
 <h1 style="background-color:hsl(0, 100%, 75%);">Saja<h1>
+
 ---
+
 
 ## CSS Text Color :
 
@@ -172,6 +176,7 @@ The text-align property specifies the horizontal alignment of text in an element
 ## Visited selector
 
 The :visited selector is used to select visited links.
+
 
 ![visited](./image5/vi.PNG)
 
