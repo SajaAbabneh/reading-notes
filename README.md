@@ -15,7 +15,7 @@
 | [class-04](https://sajaababneh.github.io/reading-notes/class-04)  | Html-Css-Js|
 | [class-05](https://sajaababneh.github.io/reading-notes/class-05)   | Html-Css|
 | [class-06](https://sajaababneh.github.io/reading-notes/class-06)   | Javascript|
-| **Title 7**   | description7|
+| [class-07](https://sajaababneh.github.io/reading-notes/class-07)  | Html-Javascript|
 | **Title 8**   | description8|
 | **Title 9**   | description9|
 | **Title 10**   | description10|
