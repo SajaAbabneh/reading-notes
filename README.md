@@ -18,7 +18,7 @@
 | [class-07](https://sajaababneh.github.io/reading-notes/class-07)  | Html-Javascript|
 | [class-08](https://sajaababneh.github.io/reading-notes/class-08) | Layout |
 | [class-09](https://sajaababneh.github.io/reading-notes/class-09)  | Html-Css-Javascript|
-| **Title 10**   | description10|
+| [class-10](https://sajaababneh.github.io/reading-notes/class-10) | Error handling|
 | **Title 11**  | description11|
 | **Title 12**  | description12|
 | **Title 13**  | description13|
