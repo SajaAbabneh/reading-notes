@@ -20,7 +20,7 @@
 | [class-09](https://sajaababneh.github.io/reading-notes/class-09)  | Html-Css-Javascript|
 | [class-10](https://sajaababneh.github.io/reading-notes/class-10) | Error handling|
 | [class-11](https://sajaababneh.github.io/reading-notes/class-11) | CSS|
-| **Title 12**  | description12|
+| [class-12]https://sajaababneh.github.io/reading-notes/class-12 | chart|
 | **Title 13**  | description13|
 | **Title 14**  | description14|
 | **Title 15**  | description15|
