@@ -1,4 +1,4 @@
-![html](./image13/HTML.PNG)
+![html](./image13/HTML.png)
 
 ## HTML Web Storage API
 
