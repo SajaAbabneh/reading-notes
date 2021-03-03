@@ -23,7 +23,7 @@
 | [class-12](https://sajaababneh.github.io/reading-notes/class-12) | chart|
 | [class-13](https://sajaababneh.github.io/reading-notes/class-13) | Html|
 | [class-14](https://sajaababneh.github.io/reading-notes/class-14)  | Css|
-|[class-15](https://sajaababneh.github.io/reading-notes/class-15)   | Google Team|
+|[class-15](https://sajaababneh.github.io/reading-notes/class-15) | Google Team|
 
 
 # ***Code 102 Reading Notes***
