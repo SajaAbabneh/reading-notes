@@ -1,8 +1,22 @@
-# ***Code 201 Reading Notes***
+# Reading Notes
 
-# **This website for Reading notes,summarize all reading will take in 201 , it have title and link to summarize**
+
+# **This website for Reading notes,summarize all reading will take in 102, 201 and 301, it have title and link to summarize**
 
 ---
+
+## Code 301 - Intermediate Software Development
+# ***Code 301 Reading Notes***
+
+| **Page Link**| **Description** |
+| ------------| --------------- |
+
+
+
+---
+
+## Code 201 - Foundations of Software Development
+# ***Code 201 Reading Notes***
 
 ## ***This table is for summarizing all reading*** : 
 
@@ -27,6 +41,8 @@
 
 
 # ***Code 102 Reading Notes***
+
+## Code 102 - Intro to Software Development
 
 ## ***This table is for summarizing all reading***
 
