@@ -13,7 +13,7 @@
 | [class301-01](https://sajaababneh.github.io/reading-notes/class301-01) | Responsive & Float |
 | [class301-02](https://sajaababneh.github.io/reading-notes/class301-02) | Jquery |
 | [class301-03](https://sajaababneh.github.io/reading-notes/class301-03) | Flex|
-| [class301-04](https://sajaababneh.github.io/reading-notes/class301-04) | Grid|
+| [class301-4](https://sajaababneh.github.io/reading-notes/class301-04) | Grid|
 
 
 ---
