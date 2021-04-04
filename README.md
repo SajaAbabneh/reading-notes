@@ -15,6 +15,7 @@
 | [class301-03](https://sajaababneh.github.io/reading-notes/class301-03) | Flex|
 | [class301-4](https://sajaababneh.github.io/reading-notes/class301-4) | Grid|
 | [class301-5](https://sajaababneh.github.io/reading-notes/class301-5) | Heroku|
+| [class301-6](https://sajaababneh.github.io/reading-notes/class301-6) | Node.js|
 
 
 ---
