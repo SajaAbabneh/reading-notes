@@ -17,6 +17,7 @@
 | [class301-5](https://sajaababneh.github.io/reading-notes/class301-5) | Heroku|
 | [class301-6](https://sajaababneh.github.io/reading-notes/class301-6) | Node.js|
 | [class301-7](https://sajaababneh.github.io/reading-notes/class301-7) | API|
+| [class301-9](https://sajaababneh.github.io/reading-notes/class301-9) | Javascript|
 
 
 ---
