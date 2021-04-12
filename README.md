@@ -19,6 +19,7 @@
 | [class301-7](https://sajaababneh.github.io/reading-notes/class301-7) | API|
 | [class301-9](https://sajaababneh.github.io/reading-notes/class301-9) | Javascript|
 | [class301-10](https://sajaababneh.github.io/reading-notes/class301-10) | Javascript|
+| [class301-11](https://sajaababneh.github.io/reading-notes/class301-10) | Javascript|
 
 
 ---
