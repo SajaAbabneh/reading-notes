@@ -21,6 +21,7 @@
 | [class301-10](https://sajaababneh.github.io/reading-notes/class301-10) | Javascript|
 | [class301-11](https://sajaababneh.github.io/reading-notes/class301-11) | Javascript|
 | [class301-12](https://sajaababneh.github.io/reading-notes/class301-12) | Javascript|
+| [class301-13](https://sajaababneh.github.io/reading-notes/class301-13) | Javascript|
 
 
 ---
